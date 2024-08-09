@@ -1,1 +1,1 @@
-# ai-theory
+# AI Theory
